@@ -1,2 +1,2 @@
-# pokemon-game
-JavaScript Pokemon Game with HTML Canvas
+# space-invaders-game
+JavaScript space-invaders-game with HTML Canvas
