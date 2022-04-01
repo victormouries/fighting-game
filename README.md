@@ -1,2 +1,2 @@
 # fighting-game
-JavaScript Fighting Game with HTML Canvas
+JavaScript Pokemon Game with HTML Canvas
